@@ -45,15 +45,14 @@
 }
 
 .header__logo-image {
-  
+
   width: 100%;
 }
 
-.address { 
-
-  width: 100%; 
-  max-width: 240px;  
-  font-style: normal;  
+.address {
+  width: 100%;
+  max-width: 240px;
+  font-style: normal;
   line-height: 1.38;
   text-decoration-style: solid;
   text-underline-offset: 4px;
@@ -85,7 +84,7 @@
   top: 0;
   bottom: 0;
   left: 0;
-  right: 0; 
+  right: 0;
   background: rgba(0, 0, 0, 0.6);
   z-index: -1;
 }
@@ -95,7 +94,7 @@
   
   display: flex;
   flex-direction: column;
-  gap: 21px; 
+  gap: 21px;
   font-weight: 700;
   font-size: 100px;
   line-height: 1.15;
@@ -126,8 +125,8 @@
 .cover__description {
   display: flex;
   flex-direction: row;
-  gap: 100px;  
-  align-items: center;  
+  gap: 100px;
+  align-items: center;
   padding-top: 106px;
 } 
 
@@ -209,9 +208,9 @@
 }
 
 .card {
-
-  display: flex;    
-  flex-direction: column;  
+  
+  display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   height: 100%;
 }
