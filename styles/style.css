@@ -4,7 +4,7 @@
   align-items: center;
   font-weight: 400;
   font-size: 18px;
-  padding: 81px 50px 96px 50px;
+  padding: 81px 50px 97px 50px;
 
 }
 
@@ -99,6 +99,7 @@
   font-size: 100px;
   line-height: 1.15;
   text-transform: uppercase;
+
 }
 
 .letter-spacing-extended {
@@ -118,7 +119,7 @@
 .aligned-text_right {
 
   text-align: right;
-  padding-left: 615px;
+  padding-left: 614px;
 
 }
 
@@ -127,7 +128,7 @@
   flex-direction: row;
   gap: 100px;
   align-items: center;
-  padding-top: 106px;
+  padding-top: 104px;
 } 
 
 
@@ -209,8 +210,7 @@
 
 .card {
   
-  display: flex;
-  flex-direction: column;
+  display: flex;  
   flex-wrap: wrap;
   height: 100%;
 }
