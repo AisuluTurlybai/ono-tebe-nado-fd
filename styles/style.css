@@ -4,7 +4,8 @@
   align-items: center;
   font-weight: 400;
   font-size: 18px;
-  padding: 81px 50px 96px 50px; 
+  padding: 81px 50px 96px 50px;
+
 }
 
 .header__menu {
@@ -44,13 +45,14 @@
 }
 
 .header__logo-image {
+  
   width: 100%;
 }
 
 .address { 
 
-  max-width: 240px;
   width: 100%; 
+  max-width: 240px;  
   font-style: normal;  
   line-height: 1.38;
   text-decoration-style: solid;
@@ -90,7 +92,7 @@
 
 
 .cover__title {
-
+  
   display: flex;
   flex-direction: column;
   gap: 21px; 
@@ -117,15 +119,15 @@
 .aligned-text_right {
 
   text-align: right;
-  padding-left: 615px; 
+  padding-left: 615px;
 
 }
 
 .cover__description {
   display: flex;
   flex-direction: row;
-  align-items: center;
   gap: 100px;  
+  align-items: center;  
   padding-top: 106px;
 } 
 
@@ -138,8 +140,7 @@
 
 .no-letter-spacing {
 
-  word-spacing: 0.9em;  
-
+  word-spacing: 0.9em;
 }
 
 .bet-button {
@@ -209,11 +210,10 @@
 
 .card {
 
-  height: 100%;
-  display: flex;
+  display: flex;    
   flex-direction: column;  
-  flex-wrap: wrap; 
-
+  flex-wrap: wrap;
+  height: 100%;
 }
 
 .card__title {
