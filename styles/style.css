@@ -210,7 +210,7 @@
 
 .card {
   
-  display: flex;  
+  display: flex;
   flex-wrap: wrap;
   height: 100%;
 }
